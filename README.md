@@ -18,8 +18,8 @@ Seaborn
 
 ✅ Created professional visualizations to analyze:
 
-Monthly Sales Trends
-Monthly Order Trends
+Monthly Sales Trends  
+Monthly Order Trends  
 Top 10 Best-Selling Products
 Top Customers
 Country-wise Sales Analysis
